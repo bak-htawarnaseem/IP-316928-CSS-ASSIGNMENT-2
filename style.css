@@ -1,0 +1,32 @@
+
+body{
+    background-color: silver;
+    padding: 10px;
+}
+h1{
+    background-color: cadetblue;
+    padding: inherit;
+    border-radius: 7px;
+}
+p{
+    padding: 5px;
+    margin: 0px;
+}
+p.o{background-color:rosybrown ;}
+p.n{background-color:rgba(188, 143, 143, 0.753) ;}
+p.m{background-color:rgba(188, 143, 143, 0.568) ;}
+p.l{background-color: rgba(188, 143, 143, 0.473);}
+p.k{background-color: rgba(188, 143, 143, 0.336);}
+p.j{background-color:rgba(188, 143, 143, 0.233) ;}
+p.i{background-color: rgba(188, 143, 143, 0.082);}
+p.h{background-color: rgba(111, 67, 155, 0.678) ;}
+p.g{background-color:rgba(46, 139, 86, 0.24) ;}
+p.f{background-color:rgba(46, 139, 86, 0.397) ;}
+p.e{background-color:rgba(46, 139, 86, 0.527) ;}
+p.d{background-color:rgba(46, 139, 86, 0.61) ;}
+p.c{background-color:rgba(46, 139, 86, 0.74) ;}
+p.b{background-color:rgba(46, 139, 86, 0.87) ;}
+p.a{background-color:seagreen ;}
+.name{
+    text-align: end;
+}
